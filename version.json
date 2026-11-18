@@ -1,10 +1,11 @@
 {
   "app": "hk_pflege_go",
-  "version": "0.1.1",
-  "build": 2,
-  "apk": "https://github.com/laith3bew-commit/hk-pflege-go-updates/releases/download/v0.1.1/HK-Pflege-Go-0.1.1.apk",
-  "sha256": "95e85422b31b8b83eb81ca2c07da0cfb9f69588b0eaa66b9822fe8c50f2009f3",
+  "version": "0.1.2",
+  "build": 3,
+  "apk": "https://github.com/laith3bew-commit/hk-pflege-go-updates/releases/download/v0.1.2/HK-Pflege-Go-0.1.2.apk",
+  "sha256": "593208035c32a3211f66da95c102bbcc5bb046e35866bba8476e13024ea4289d",
   "neuerungen": [
-    "Update-Quelle eingerichtet: Die App findet neue Versionen jetzt selbst und zeigt „Neue Version verfügbar“."
+    "Wird ein Profil-Code statt eines Geräte-Codes gescannt, erklärt die App jetzt, was zu tun ist.",
+    "Der Hinweis zum Gerät aktivieren zeigt den richtigen Weg im HK Go OS: links „Geräte“, dann „Gerät aktivieren“."
   ]
 }
