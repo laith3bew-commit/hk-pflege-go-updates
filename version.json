@@ -1,0 +1,10 @@
+{
+  "app": "hk_pflege_go",
+  "version": "0.1.1",
+  "build": 2,
+  "apk": "https://github.com/laith3bew-commit/hk-pflege-go-updates/releases/download/v0.1.1/HK-Pflege-Go-0.1.1.apk",
+  "sha256": "95e85422b31b8b83eb81ca2c07da0cfb9f69588b0eaa66b9822fe8c50f2009f3",
+  "neuerungen": [
+    "Update-Quelle eingerichtet: Die App findet neue Versionen jetzt selbst und zeigt „Neue Version verfügbar“."
+  ]
+}
