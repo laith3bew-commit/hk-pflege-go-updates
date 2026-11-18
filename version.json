@@ -1,11 +1,14 @@
 {
   "app": "hk_pflege_go",
-  "version": "0.1.2",
-  "build": 3,
-  "apk": "https://github.com/laith3bew-commit/hk-pflege-go-updates/releases/download/v0.1.2/HK-Pflege-Go-0.1.2.apk",
-  "sha256": "593208035c32a3211f66da95c102bbcc5bb046e35866bba8476e13024ea4289d",
+  "version": "0.2.0",
+  "build": 4,
+  "apk": "https://github.com/laith3bew-commit/hk-pflege-go-updates/releases/download/v0.2.0/HK-Pflege-Go-0.2.0.apk",
+  "sha256": "e923ffdcae07b5e569ce7ec3e1b1595aa2f0623cb0de396a6dabe137256fe1d8",
   "neuerungen": [
-    "Wird ein Profil-Code statt eines Geräte-Codes gescannt, erklärt die App jetzt, was zu tun ist.",
-    "Der Hinweis zum Gerät aktivieren zeigt den richtigen Weg im HK Go OS: links „Geräte“, dann „Gerät aktivieren“."
+    "Anmeldung mit Namen und PIN. Die Profile kommen automatisch aus dem HK Go OS im Büro.",
+    "Verschlüsselte Verbindung zum Büro. Dieses Handy bitte einmal neu koppeln.",
+    "Neu: Einstellungen (Zahnrad oben rechts): Gerät, Version und Updates, Farbe hell oder dunkel, Schriftgröße, Angaben des Pflegedienstes.",
+    "Nach 10 Minuten im Hintergrund meldet sich die App ab (Firmenhandys werden geteilt).",
+    "Nach 5 falschen PINs ist die Anmeldung für 5 Minuten gesperrt."
   ]
 }
