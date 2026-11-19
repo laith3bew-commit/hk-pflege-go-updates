@@ -1,14 +1,15 @@
 {
   "app": "hk_pflege_go",
-  "version": "0.2.0",
-  "build": 4,
-  "apk": "https://github.com/laith3bew-commit/hk-pflege-go-updates/releases/download/v0.2.0/HK-Pflege-Go-0.2.0.apk",
-  "sha256": "e923ffdcae07b5e569ce7ec3e1b1595aa2f0623cb0de396a6dabe137256fe1d8",
+  "version": "0.3.0",
+  "build": 5,
+  "apk": "https://github.com/laith3bew-commit/hk-pflege-go-updates/releases/download/v0.3.0/HK-Pflege-Go-0.3.0.apk",
+  "sha256": "8b5fcb066a43454c96101c5f6882d07b18373bcb1539d0500da9233307ce27ff",
   "neuerungen": [
-    "Anmeldung mit Namen und PIN. Die Profile kommen automatisch aus dem HK Go OS im Büro.",
-    "Verschlüsselte Verbindung zum Büro. Dieses Handy bitte einmal neu koppeln.",
-    "Neu: Einstellungen (Zahnrad oben rechts): Gerät, Version und Updates, Farbe hell oder dunkel, Schriftgröße, Angaben des Pflegedienstes.",
-    "Nach 10 Minuten im Hintergrund meldet sich die App ab (Firmenhandys werden geteilt).",
-    "Nach 5 falschen PINs ist die Anmeldung für 5 Minuten gesperrt."
+    "Neu: HK Bericht Go. Berichte schreiben mit Kunde, Art, Wichtigkeit und Uhrzeit. Der Bericht geht beim Speichern sofort ans Büro.",
+    "Freiwillig dazu: bis 3 Fotos, eine Sprachnachricht (bis 2 Minuten) oder ein gescanntes Dokument als PDF.",
+    "Ungelesene Berichte stehen oben mit Farbpunkt. „Gelesen“ antippen, dann sehen alle, dass Sie ihn gelesen haben.",
+    "Benachrichtigung „Neuer Bericht“ ohne Namen und Inhalt, auch wenn die App geschlossen ist.",
+    "Ohne Netz bleibt der Bericht auf dem Handy und geht automatisch raus, sobald das Büro erreichbar ist.",
+    "Fotos, Ton und Scans liegen verschlüsselt nur in der App, nicht in der Galerie."
   ]
 }
